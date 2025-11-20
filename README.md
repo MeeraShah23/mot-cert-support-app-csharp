@@ -3,6 +3,7 @@ change 1 to the readme file
 this is the demo branch where the change has been made.
 
 This is the 2nd change to the demo branch
+This is a 2nd changed added to the readme file.
 
 # TimeSheet Manager
 This project is a simple time sheet manager application. It allows users to log in to the application and add time sheet entries. Users can log in as either standard or admin users with admin users being able to create new timesheets, users and view reports.
